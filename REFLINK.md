@@ -24,6 +24,44 @@
   http://wah.or.kr
 
 
+### 
+
+https://nodejs.org/en/
+
+https://vuejs.org/
+
+https://angular.io/
+
+https://ionicframework.com/
+
+https://firebase.google.com/
+
+https://www.heroku.com/nodejs
+
+https://nodered.org/
+
+* javascript/ES5/6 언어 문법
+* HTML/CSS
+* CSS 구조화 (Less & Sass)
+* 반응형 디자인 (Responsive Design)
+* 싱글 페이지 앱 프레임워크 (angularjs, backbonejs, react, emberjs, …)
+* 리덕스 및 미들웨어 (redux, redux-thunk, redux-saga, redux-observable, …)
+* 디자인 패턴 (MVC등 소프트웨어 디자인 패턴 관련)
+* AMD (Asynchronous Module Definition: commonJS, requireJS, ES modules)
+* 노드 서버 및 서버 프로그래밍 (NodeJS)
+* 패키징 및 배포 자동화 (Task Runners: Grunt, Gulp, webpack, browerify)
+
+
+https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond
+
+https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance
+
+https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar
+
+https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes
+
+
+
 # BLOCKCHAIN
 
 ## Ethereum
