@@ -56,6 +56,7 @@ http://techneedle.com/archives/30164
 * 패키징 및 배포 자동화 (Task Runners: Grunt, Gulp, webpack, browerify)
 
 
+### JS
 https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond
 
 https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance
@@ -63,6 +64,10 @@ https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/R
 https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar
 
 https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes
+
+
+### Python
+  https://code.tutsplus.com/articles/the-best-way-to-learn-python--net-26288
 
 
 
