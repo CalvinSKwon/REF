@@ -13,6 +13,8 @@ http://steve-yegge.blogspot.kr/2006/03/execution-in-kingdom-of-nouns.html
 http://verraes.net/2013/10/verbs-in-class-names/
 ### Compatibility
 https://quirksmode.org/compatibility.html
+
+http://www.clearboth.org/43_the_principles_of_unobtrusive_javascript/
 ### Web Accessibility
 http://nuli.navercorp.com/sharing/a11y/awareness
 http://wah.or.kr
